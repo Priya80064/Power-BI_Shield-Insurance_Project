@@ -12,7 +12,7 @@ Shield Insurance is an insurance provider operating across five major cities in 
 - Online Website
 
 ## Dashboard & Presentation Links
-- **Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiODMwMzVlYWMtZmI5Ny00MTlkLTljM2UtMTFmOGZjYjcwYzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+- **Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiODMwMzVlYWMtZmI5Ny00MTlkLTljM2UtMTFmOGZjYjcwYzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=041b10097e3900ab64a6
 - **Presentation:** https://youtu.be/bZAAo07myGA
 
 ## Data Sets and Data Model
